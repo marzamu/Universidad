@@ -1,0 +1,13 @@
+[
+    {
+        "categoria": "Professions",
+        "pregunta": "¿Who is the professional?",
+        "respuesta": "Doctor",
+        "incorrecta1": "Engineer",
+        "incorrecta2": "Fireman",
+        "incorrecta3": "Teacher",
+        "imagen": "https://i.ibb.co/JCzBVhm/doctora.jpg",
+        "objectFit": "contain"
+    }
+    
+]
