@@ -1,13 +1,112 @@
 [
     {
+        "categoria": "Preguntas de Repaso",
+        "pregunta": "¿que significa 'What's your name?'?",
+        "respuesta": "¿Cómo te llamas?",
+        "incorrecta1": "¿Como se llaman?",
+        "incorrecta2": "¿Cuantos nombres tenes?",
+        "incorrecta3": "¿Que edad tenes?",
+        "imagen": "https://i.ibb.co/vvN3nxY/ingle.jpg" ,
+        "objectFit": "contain"
+    },
+
+    
+    {
+        "categoria": "Preguntas de Repaso",
+        "pregunta": "¿Que significa 'How old are you'?",
+        "respuesta": "¿Cuántos años tienes?",
+        "incorrecta1": "¿Estas bien?",
+        "incorrecta2": "¿Hoy es tu cumpleaños?",
+        "incorrecta3": "¿Cuántos años tengo?",
+        "imagen": "https://i.ibb.co/CK49PmK/download.png",
+        "objectFit": "contain"
+    },
+    
+    {
+        "categoria": "Preguntas de Repaso",
+        "pregunta": "¿Que significa 'What do you do for a living'?",
+        "respuesta": "¿A qué te dedicas?",
+        "incorrecta1": "¿Donde vivis?",
+        "incorrecta2": "¿Que haces cuando te levantas?",
+        "incorrecta3": "¿A que se dedica tu mamá?",
+        "imagen":"https://i.ibb.co/0DsDzPc/images.jpg",
+        "objectFit": "contain"
+    },
+
+    {
         "categoria": "Professions",
         "pregunta": "¿Who is the professional?",
-        "respuesta": "Doctor",
+        "respuesta": "Fireman",
         "incorrecta1": "Engineer",
-        "incorrecta2": "Fireman",
+        "incorrecta2":"Doctor", 
         "incorrecta3": "Teacher",
-        "imagen": "https://i.ibb.co/JCzBVhm/doctora.jpg",
+        "imagen":"https://i.ibb.co/WkM5LYK/woman-fire-fighter-958266-640.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+    "categoria": "Preguntas de Repaso",
+    "pregunta": "¿Que significa 'What do you like doing in your free time'?",
+    "respuesta": "¿Qué te gusta hacer en tu tiempo libre?",
+    "incorrecta1": "¿Te gusta el tiempo libre?",
+    "incorrecta2": "¿No te gusta el tiempo libre?",
+    "incorrecta3": "¿Que vamos a hacer en el tiempo libre?",
+    "imagen": "https://i.ibb.co/0DsDzPc/images.jpg",
+    "objectFit": "contain"
+    },
+    
+    {
+        "categoria": "Professions",
+        "pregunta": "¿Who is the professional?",
+        "respuesta":  "Teacher",
+        "incorrecta1": "Engineer",
+        "incorrecta2":"Doctor", 
+        "incorrecta3":"Fireman",
+        "imagen":"https://i.ibb.co/JxpwRp6/download.jpg" ,
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Professions",
+        "pregunta": "¿Who is the professional?",
+        "respuesta":  "Engineer",
+        "incorrecta1": "Teacher",
+        "incorrecta2":"Doctor", 
+        "incorrecta3":"Fireman",
+        "imagen":"https://i.ibb.co/hfsvZRj/download.jpg" ,
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Preguntas de Repaso",
+        "pregunta": "¿Que significa 'Do you have any pets'?",
+        "respuesta": "¿Tienes mascotas?",
+        "incorrecta1": "¿Tienes muchas mascotas?",
+        "incorrecta2": "¿Tienes pocas mascotas?",
+        "incorrecta3": "¿Como se llama tu mascota?",
+        "imagen":"https://i.ibb.co/nDw0QBF/download.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Professions",
+        "pregunta": "¿Who is the professional?",
+        "respuesta": "Mechanic",
+        "incorrecta1": "Engineer",
+        "incorrecta2":"Astronaut", 
+        "incorrecta3": "Basketball player",
+        "imagen":"https://i.ibb.co/pX7WMCn/download.jpg" ,
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Professions",
+        "pregunta": "¿Who is the professional?",
+        "respuesta": "Chef",
+        "incorrecta1": "Engineer",
+        "incorrecta2": "Mechanic",
+        "incorrecta3": "Cook",
+        "imagen":"https://i.ibb.co/Xybg882/download.jpg" ,
         "objectFit": "contain"
     }
-    
+
 ]
